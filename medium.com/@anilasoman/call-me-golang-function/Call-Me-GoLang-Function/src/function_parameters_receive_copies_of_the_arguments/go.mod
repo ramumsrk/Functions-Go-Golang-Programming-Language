@@ -1,0 +1,3 @@
+module function_parameters_receive_copies_of_the_arguments
+
+go 1.22.4
